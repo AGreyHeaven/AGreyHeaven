@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AGreyHeaven
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on dunno yet
+- 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me: here
 
 <!---
